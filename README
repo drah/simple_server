@@ -1,0 +1,9 @@
+Usage:
+  make
+  ./webserver 8888 "/path/to/your/webserver/docroot"
+  NOTE that there is NO slash here ---------------^ 
+
+What has been implemented:
+  the two basic parts.
+  I've used all the cases in testcase to test my implement,
+  and it works!
